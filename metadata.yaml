@@ -1,0 +1,28 @@
+_repo: A-Grammar-of-the-English-Tongue_15097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Grammar'
+- !lcc 'PE'
+title: A Grammar of the English Tongue
+url: http://www.gutenberg.org/ebooks/15097

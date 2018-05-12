@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/297
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15097#A-Grammar-of-the-English-Tongue
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2005-02-18'
 gutenberg_type: Text
